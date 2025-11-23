@@ -1,7 +1,7 @@
 # Lab-3-Railway-Reservation
-NAME : SANTHOSH V
+NAME : MOHAMED HAFEEZ S
 
-REGISTER NUMBER : 212224230252
+REGISTER NUMBER : 212224040193
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
